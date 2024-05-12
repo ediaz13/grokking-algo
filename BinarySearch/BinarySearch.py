@@ -20,3 +20,5 @@ print(binary_search(my_List, -1))
 
 #Ex 1.1. It would take 7 steps.
 #Ex 1.2. It would take 8 steps.
+
+
